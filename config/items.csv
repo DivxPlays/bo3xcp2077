@@ -1,0 +1,6 @@
+name,type,subtype,value,description
+Cyber Health Pack,Consumable,Health,50,"Restores 50 health points with cybernetic enhancement"
+Neural Boost,Consumable,Boost,100,"Temporarily increases all stats for 30 seconds"
+Data Crystal,Collectible,Resource,25,"Used to upgrade weapons and equipment"
+Quantum Fuel,Consumable,Resource,15,"Restores weapon ammo and energy"
+Neon Key,Collectible,Key,0,"Opens cyberpunk-themed doors and containers"

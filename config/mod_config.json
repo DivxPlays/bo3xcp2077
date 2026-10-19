@@ -1,0 +1,34 @@
+{
+  "mod_name": "Black Ops Cyberpunk Zombies",
+  "version": "1.0.0",
+  "author": "Mashup Creator",
+  "description": "A mashup combining Call of Duty: Black Ops III zombies with cyberpunk elements",
+  "required_games": [
+    {
+      "slug": "custom-call-of-duty-black-ops-iii",
+      "role": "primary"
+    },
+    {
+      "slug": "cyberpunk-2077",
+      "role": "companion"
+    }
+  ],
+  "features": [
+    "Cyberpunk-themed weapons",
+    "Enhanced zombie enemies",
+    "Neon lighting effects",
+    "Digital art assets"
+  ],
+  "dependencies": {
+    "black_ops_iii_mod_support": "official_workshop_and_custom_maps",
+    "cyberpunk_2077_mod_support": [
+      "cet",
+      "red4ext", 
+      "redscript"
+    ]
+  },
+  "compatibility": {
+    "black_ops_iii": "latest",
+    "cyberpunk_2077": "latest"
+  }
+}

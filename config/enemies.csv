@@ -1,0 +1,7 @@
+name,type,health,speed,damage,abilities,description
+Nightmare Zombie,Standard,150,3.5,25,"Regeneration","A standard zombie enhanced with cybernetic implants"
+Rogue Drone,Zombie,80,4.0,30,"Electrify","Flying drone that zaps players with electric energy"
+Data Wraith,Special,200,2.5,40,"Phase Shift, Electrocution","Ghost-like enemy that phases through walls and electrocutes players"
+Cyber Sentinel,Turret,300,1.0,50,"Laser Fire, Self-Repair","Automated turrets with cybernetic enhancements"
+Neural Horror,Special,250,3.0,60,"Mind Control, Poison","Enemy that can control player minds and poison them"
+Shadow Stalker,Zombie,120,4.5,35,"Invisibility","Stealthy zombie that becomes invisible during attacks"

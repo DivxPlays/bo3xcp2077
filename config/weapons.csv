@@ -1,0 +1,8 @@
+name,type,category,damage,range,fire_rate,clip_size,description
+Cyberpulse Rifle,Assault Rifle,Heavy,85,100,750,30,"A futuristic rifle with cybernetic pulse technology"
+Nano SMG,Submachine Gun,Light,45,60,900,25,"High-speed nano-technology submachine gun"
+Quantum Shotgun,Shotgun,Heavy,120,40,400,8,"Energy-based shotgun with quantum mechanics"
+Neural Pistol,Pistol,Light,60,70,500,12,"Pistol that interfaces directly with neural networks"
+Chroma Sniper,Rifle,Heavy,150,150,300,5,"Sniper rifle that projects chromatic energy"
+Data Mine,Explosive,Special,90,30,100,1,"Deployable mine with data-destroying capabilities"
+Neon Grenade,Grenade,Special,75,25,200,3,"Grenade that creates temporary cybernetic illusions"

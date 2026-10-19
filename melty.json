@@ -1,0 +1,40 @@
+{
+  "name": "Black Ops Cyberpunk Zombies",
+  "slug": "black-ops-cyberpunk-zombies",
+  "description": "Experience classic Call of Duty: Black Ops III zombies mode with a cyberpunk twist. Fight through zombie hordes in Night City-inspired environments with cyberpunk weapons and aesthetics.",
+  "tagline": "Zombies in the Neon Dreams",
+  "games": [
+    {
+      "slug": "custom-call-of-duty-black-ops-iii",
+      "role": "primary"
+    },
+    {
+      "slug": "cyberpunk-2077", 
+      "role": "companion"
+    }
+  ],
+  "version": "1.0.0",
+  "recipe": {
+    "kind": "game",
+    "launch": {
+      "exe": "{game}/bin/blackops3.exe",
+      "args": [
+        "+set +sv_cheats 1",
+        "+set +developer 1"
+      ]
+    },
+    "files": {
+      "source": "mods",
+      "destination": "{game}/mods/black-ops-cyberpunk-zombies"
+    },
+    "together": true,
+    "multiplayer": {
+      "maxPlayers": 4
+    }
+  },
+  "credits": {
+    "authors": ["Mashup Creator"],
+    "license": "MIT",
+    "remix": true
+  }
+}
